@@ -1,10 +1,17 @@
-# 🕶️ Cyber Heist: CodeBreaker
+# <h1>🕶️ Cyber Heist: CodeBreaker</h1>
 
-[![Watch the Demo](https://img.youtube.com/vi/xFh2nihZx2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=xFh2nihZx2A)
+<a href="https://www.youtube.com/watch?v=xFh2nihZx2A" target="_blank">
+  <img src="https://img.youtube.com/vi/xFh2nihZx2A/maxresdefault.jpg" alt="Watch the Demo" style="width:100%;max-width:800px;border-radius:12px;">
+</a>
 
+<p>
 A fast-paced 2D/3D stealth puzzle game built with React, TypeScript, and Vite, where players infiltrate cyberpunk megastructures, dodge enemy bots, and hack terminals to escape.
+</p>
 
-🌐 [Play Live →](https://cyberheistcodebreak.netlify.app/)
+<p>
+🌐 <a href="https://cyberheistcodebreak.netlify.app/" target="_blank">Play Live →</a>
+</p>
+
 
 ---
 
